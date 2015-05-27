@@ -1,4 +1,4 @@
- #include <stdio.h>
+﻿ #include <stdio.h>
 #include <stdlib.h>
 int main ()
 {
@@ -15,7 +15,7 @@ int main ()
 switch (c)   /// działanie 
 {
           case   '+': x=a+b;                                // operacja dodawania    
-                   printf("Wynik to: %d\n", x);
+                   printf("Wynik to: %d\n", ewfewfewf
                    break;
           case   '-': x=a-b;                                // operacja odejmowania
                    printf("Wynik to: %d\n", x);
