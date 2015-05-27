@@ -1,4 +1,4 @@
- #include <stdio.h>
+﻿ #include <stdio.h>
 #include <stdlib.h>
 int main ()
 {
@@ -24,7 +24,7 @@ switch (c)   /// działanie
                    printf("Wynik to: %d\n", x);                // operacja mnożenia
                    break;
           case   '/': x=a/b;
-                   printf("Wynik to: %d\n", x);    
+                   printf("Wynik to: %d\n", x); fwefewf   
  
         if (b==0)  
         {
