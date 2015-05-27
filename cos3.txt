@@ -1,4 +1,4 @@
- #include <stdio.h>
+﻿ #include <stdio.h>
 #include <stdlib.h>
 int main ()
 {
@@ -10,7 +10,7 @@ int main ()
             scanf("%d", &b);
             getchar();
        printf("Jaka operacje chcesz wykonac (podaj znak): \n");
-            scanf("%c", &c);
+            scanf("%c", &c);eswfef
  
 switch (c)   /// działanie 
 {
