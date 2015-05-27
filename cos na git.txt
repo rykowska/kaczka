@@ -12,7 +12,7 @@ using namespace std;
 const int N = 20; // Liczebnoœæ zbioru.
 
 // Program g³ówny
-//---------------
+//---------------dqdfqedqewfqewfwef
 
 int main()
 {
