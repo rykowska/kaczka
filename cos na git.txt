@@ -13,7 +13,7 @@ const int N = 20; // Liczebnoœæ zbioru.
 
 // Program g³ównyewfewf 
 //---------------dqdfqedqewfqewfwef
-tretreret ret re
+tretreret ret refewf
 int main()
 {qweqweqwe qwe
   int d[N],i,pmin,pmax,p;
