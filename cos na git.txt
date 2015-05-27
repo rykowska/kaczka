@@ -11,11 +11,11 @@ using namespace std;pierprz
 
 const int N = 20; // Liczebnoœæ zbioru.
 
-// Program g³ówny
+// Program g³ównyewfewf 
 //---------------dqdfqedqewfqewfwef
 tretreret ret re
 int main()
-{
+{qweqweqwe qwe
   int d[N],i,pmin,pmax,p;
   
   cout << "Dwukierunkowe Sortowanie babelkowe\n"
