@@ -1,4 +1,4 @@
- #include <stdio.h>
+﻿w #include <stdio.h>
 #include <stdlib.h>
 int main ()
 {
@@ -11,8 +11,8 @@ int main ()
             getchar();
        printf("Jaka operacje chcesz wykonac (podaj znak): \n");
             scanf("%c", &c);
- 
-switch (c)   /// działanie 
+ ewfew
+switch (c)   /// ff
 {
           case   '+': x=a+b;                                // operacja dodawania    
                    printf("Wynik to: %d\n", x);
