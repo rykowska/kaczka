@@ -4,7 +4,7 @@ I'm just sitting in my car and waiting for my girl.
 
 #include <iostream>
 #include <iomanip>
-#include <cstdlib>
+#include <cstdlib> edytuje
 #include <time.h>
 
 using namespace std;
