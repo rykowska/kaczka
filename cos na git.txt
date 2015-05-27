@@ -1,4 +1,4 @@
-WHAT IS LOVE? BABY DONT HURT ME, DONT HURT ME, NO MORE
+etWHAT IS LOVE? BABY DONT HURT ME, DONT HURT ME, NO MORE
 
 I'm just sitting in my car and waiting for my girl.
 
@@ -13,7 +13,7 @@ const int N = 20; // Liczebnoœæ zbioru.
 
 // Program g³ówny
 //---------------dqdfqedqewfqewfwef
-
+tretreret ret re
 int main()
 {
   int d[N],i,pmin,pmax,p;
